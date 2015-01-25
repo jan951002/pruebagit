@@ -19,6 +19,8 @@ public class Pruebagit1 {
      */
     public static void main(String[] args) {
         
+        JOptionPane.showMessageDialog(null, "Hola mundo :D");
+        
         int a, b, r;
         
         a=Integer.parseInt(JOptionPane.showInputDialog("Ingrese el primer numero"));
